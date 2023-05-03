@@ -1,4 +1,7 @@
-/* Find Percentage without number */
+// If marks obtained are input through the keyboard . write a program to find a percentage.
+
+
+
 #include<stdio.h>
 #include<conio.h>
 void main()
