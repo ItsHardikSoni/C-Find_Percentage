@@ -1,0 +1,13 @@
+/* Find Percentage without number */
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+    float n,m,pr;
+    printf ("\n Enter any number : \n");
+    scanf ("%f %f", &n, &m);
+    /* Formula of Percentage*/
+    pr = n*100/m;
+    printf (" Percentage = %f \n", pr);
+    getch();
+}
